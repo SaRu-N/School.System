@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "NCC.School.Repository/1.0.0": {
+        "runtime": {
+          "NCC.School.Repository.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NCC.School.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

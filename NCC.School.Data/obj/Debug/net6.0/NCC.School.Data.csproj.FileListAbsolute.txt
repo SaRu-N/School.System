@@ -1,0 +1,14 @@
+C:\Users\sarun\OneDrive\Documents\.net\School.System\NCC.School.Data\bin\Debug\net6.0\NCC.School.Data.deps.json
+C:\Users\sarun\OneDrive\Documents\.net\School.System\NCC.School.Data\bin\Debug\net6.0\NCC.School.Data.runtimeconfig.json
+C:\Users\sarun\OneDrive\Documents\.net\School.System\NCC.School.Data\bin\Debug\net6.0\NCC.School.Data.dll
+C:\Users\sarun\OneDrive\Documents\.net\School.System\NCC.School.Data\bin\Debug\net6.0\NCC.School.Data.pdb
+C:\Users\sarun\OneDrive\Documents\.net\School.System\NCC.School.Data\obj\Debug\net6.0\NCC.School.Data.csproj.AssemblyReference.cache
+C:\Users\sarun\OneDrive\Documents\.net\School.System\NCC.School.Data\obj\Debug\net6.0\NCC.School.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sarun\OneDrive\Documents\.net\School.System\NCC.School.Data\obj\Debug\net6.0\NCC.School.Data.AssemblyInfoInputs.cache
+C:\Users\sarun\OneDrive\Documents\.net\School.System\NCC.School.Data\obj\Debug\net6.0\NCC.School.Data.AssemblyInfo.cs
+C:\Users\sarun\OneDrive\Documents\.net\School.System\NCC.School.Data\obj\Debug\net6.0\NCC.School.Data.csproj.CoreCompileInputs.cache
+C:\Users\sarun\OneDrive\Documents\.net\School.System\NCC.School.Data\obj\Debug\net6.0\NCC.School.Data.dll
+C:\Users\sarun\OneDrive\Documents\.net\School.System\NCC.School.Data\obj\Debug\net6.0\refint\NCC.School.Data.dll
+C:\Users\sarun\OneDrive\Documents\.net\School.System\NCC.School.Data\obj\Debug\net6.0\NCC.School.Data.pdb
+C:\Users\sarun\OneDrive\Documents\.net\School.System\NCC.School.Data\obj\Debug\net6.0\NCC.School.Data.genruntimeconfig.cache
+C:\Users\sarun\OneDrive\Documents\.net\School.System\NCC.School.Data\obj\Debug\net6.0\ref\NCC.School.Data.dll
